@@ -1,3 +1,3 @@
 # server
 
-UP server
+UP server files config
