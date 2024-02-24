@@ -1,1 +1,18 @@
-
+{
+    "worlds": {
+        "Login": {
+            "host": "localhost",
+            "port": 6111
+        },
+        "Blizzard": {
+            "host": "localhost",
+            "port": 6112,
+            "maxUsers": 300
+        },
+        "Development": {
+            "host": "localhost",
+            "port": 6113,
+            "maxUsers": 300
+        }
+    }
+}
